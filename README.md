@@ -19,7 +19,7 @@
 </p>
 
 
-<h1 align="center">🔧 Framework & Librairies</p>
+<h1 align="center">📚 Framework & Librairies</p>
 
 <p align="center">
  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -27,7 +27,7 @@
 </p>
 
 
-<h1 align="center">🔧 Database</p>
+<h1 align="center">💾 Database</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
