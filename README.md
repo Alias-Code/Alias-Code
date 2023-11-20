@@ -26,10 +26,12 @@
  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
 </p>
 
-<h1 align="center">💾 Database</p>
+<h1 align="center">💾 Database & Data Exchange</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white "/>
+  <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white"/>
 </p>
 
 <h1 align="center">📫 Contact Me</p>
