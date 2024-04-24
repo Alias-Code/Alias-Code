@@ -35,14 +35,6 @@
  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/>
 </p>
 
-<h1 align="center">📫 Contact Me</p>
-
-<p align="center">
- <a href="mailto: pro@aliascode.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pro@aliascode.com"/>
- </a>
-</p>
-
 <h1 align="center">
   📊 Github Stats
 </h2>
