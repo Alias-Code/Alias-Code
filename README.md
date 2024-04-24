@@ -37,8 +37,8 @@
 <h1 align="center">📫 Contact Me</p>
 
 <p align="center">
- <a href="mailto: contact@alias.dev">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:contact@alias.dev"/>
+ <a href="mailto: pro@aliascode.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pro@aliascode.com"/>
  </a>
 </p>
 
@@ -47,6 +47,6 @@
 </h2>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=AIias-Dev&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AIias-Dev&hide=css&theme=radical">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=Alias-Code&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alias-Code&hide=css&theme=radical">
 </p>
