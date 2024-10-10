@@ -1,5 +1,7 @@
 <h1 align="center">Welcome<br><br>
 
+<sub>I've been passionate about development since I was very young, and I've developed a real developer's mindset. Every bug is a challenge and an opportunity to learn. I never consider failure as an end, but as an opportunity to improve. <br><br>Having mostly learned on my own, I've acquired solid skills and a high degree of autonomy. Methodical and organized, I enjoy thinking, planning and designing code solutions. I'm determined, persevering and passionate about my work, always ready to overcome obstacles and find creative solutions. </sub>
+
 <h1 align="center">💻 Languages</h1>
 
 <p align="center">
